@@ -1,0 +1,14 @@
+{
+    "dev": {
+        "awscloudformation": {
+            "AuthRoleName": "sampleproject-dev-20190831171920-authRole",
+            "UnauthRoleArn": "arn:aws:iam::323787175251:role/sampleproject-dev-20190831171920-unauthRole",
+            "AuthRoleArn": "arn:aws:iam::323787175251:role/sampleproject-dev-20190831171920-authRole",
+            "Region": "ap-south-1",
+            "DeploymentBucketName": "sampleproject-dev-20190831171920-deployment",
+            "UnauthRoleName": "sampleproject-dev-20190831171920-unauthRole",
+            "StackName": "sampleproject-dev-20190831171920",
+            "StackId": "arn:aws:cloudformation:ap-south-1:323787175251:stack/sampleproject-dev-20190831171920/622c98f0-cbe5-11e9-abaa-0a00a26756d4"
+        }
+    }
+}
